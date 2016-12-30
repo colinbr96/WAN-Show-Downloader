@@ -1,4 +1,4 @@
-# WAN-Show-Downloader
+# YouTube-Podcast-Downloader
 Downloads videos from a given set of YouTube channels (intended for use with podcast style videos). The downloaded files are converted to MP3 and then uploaded to
 Google Drive.
 
