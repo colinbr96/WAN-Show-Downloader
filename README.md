@@ -1,5 +1,5 @@
 # WAN-Show-Downloader
-Downloads videos from the LinusTechTips YouTube channel, specifically the WAN Show playlist. The downloaded files are converted to MP3 and then uploaded to
+Downloads videos from a given set of YouTube channels (intended for use with podcast style videos). The downloaded files are converted to MP3 and then uploaded to
 Google Drive.
 
 ### Notes
