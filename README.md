@@ -12,6 +12,6 @@ Google Drive.
    - [YouTube DL](https://github.com/rg3/youtube-dl/)
 
 ### Files
-   - `wan_show_downloader.py`: Main script
+   - `downloader.py`: Main script
    - `downloaded.json`: Contains list of video IDs that have already been downloaded
    - `api.json`: Contains Google API key
